@@ -5,7 +5,7 @@ public class Circle {
     public Circle(PointsDisplay einPVonAußen){
 
         this.pointsD = einPVonAußen;
-
+        A
     }
 
 }
